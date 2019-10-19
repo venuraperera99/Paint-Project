@@ -1,0 +1,78 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 23, 2017
+	Yesterday : Nothing
+	Today     : Nothing
+	Obstacles : Nothing
+
+Nov 24, 2017
+	Yesterday : Nothing
+	Today     : Looked through assignment and code and whats is being asked 
+	Obstacles : Understanding some of the code
+
+Nov 25, 2017
+	Yesterday : Looked through assignment and code and whats being asked to complete
+	Today     : Looked through code some more to try and understand it further
+	Obstacles : FileIO stuff
+
+Nov 26, 2017
+	Yesterday : Looked through code some more to try and understand it further
+	Today     : created ability to save a file
+	Obstacles : knowing how everything should work and dont know how to actually write anything significant to the file
+	
+Nov 27, 2017
+	Yesterday : created ability to save a file with pseudo code on formatting the file correctly
+	Today     : finished formatting the file correctly except for rounding in floating point numbers
+	Obstacles : figuring out how to access specific command types from the arraylist of paintcommand objects
+	
+Nov 28, 2017
+	Yesterday : Finished UserStory3.1
+	Today     : started and finished UserStory3.2
+	Obstacles : tiny mistakes in regex and inconsistent behavior and rgb values
+	
+Nov 29, 2017
+	Yesterday : Finished UserStory3.2
+	Today     : Started and Finished Bug3.3 and Bug3.4
+	Obstacles : how to implement the visitor pattern for saving files in this context
+
+Nov 30, 2017
+	Yesterday : Finished Bug3.3 and Bug3.4
+	Today     : Looked through floating point numbers and how they should work
+	Obstacles : understanding the logic of floating point numbers
+
+Dec 1, 2017
+	Yesterday : Looked through floating point numbers
+	Today     : Attempting to solve the first part of floating point numbers problem
+	Obstacles : how code works regarding floating point numbers and how to code the toString of a floating point number with all its bits
+	
+Dec 2, 2017
+	Yesterday : Attempted to solve the first part of the floating point numbers problem
+	Today     : finished binRep method
+	Obstacles : understanding how it should be represented and how to put it in that form
+
+Dec 3, 2017
+	Yesterday : Finished binRep method
+	Today     : Finished machine epsilon method
+	Obstacles : understanding the concept of machine epsilon and how to calculate it and code it
+
+Dec 4, 2017
+	Yesterday : Finished machine epsilon method
+	Today     : Finished Bug3.5
+	Obstacles : understanding how overflow and underflow are calculated
+	
+Dec 5, 2017
+	Yesterday : Finished Bug3.5
+	Today     : Added JUnit Tests and JavaDoc to methods and classes i created
+	Obstacles : Fixing code so that it works with JUnit Tests
+
+Dec 6, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 7, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	

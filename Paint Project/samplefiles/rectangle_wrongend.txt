@@ -1,0 +1,8 @@
+Paint Save File Version 1.0
+Rectangle
+	color:178,118,63
+	filled:false
+	p1:(90,71)
+	p2:(201,163)
+End Circle
+End Paint Save File

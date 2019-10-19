@@ -1,0 +1,37 @@
+Paint Save File Version 1.0
+Squiggle
+	color:180,173,216
+	filled:true
+	points
+		point:(91,87)
+		point:(96,93)
+		point:(101,100)
+		point:(111,115)
+		point:(116,125)
+		point:(121,133)
+		point:(136,150)
+		point:(144,159)
+		point:(150,165)
+		point:(156,173)
+		point:(164,179)
+		point:(171,185)
+		point:(177,192)
+		point:(185,197)
+		point:(196,207)
+		point:(201,212)
+		point:(206,215)
+		point:(212,219)
+		point:(217,222)
+		point:(225,225)
+		point:(234,230)
+		point:(239,234)
+		point:(244,235)
+		point:(249,237)
+		point:(252,238)
+		point:(256,239)
+		point:(257,240)
+		point:(259,240)
+		point:(260,240)
+	end points
+End Circle
+End Paint Save File
